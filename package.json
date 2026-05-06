@@ -1,7 +1,7 @@
 {
-  "name": "biggdum-terminal-theme",
-  "displayName": "Biggdum Terminal Theme",
-  "description": "Biggdum's Terminal-based Theme",
+  "name": "biggdum-theme",
+  "displayName": "biggdum theme",
+  "description": "a big dumb theme",
   "version": "0.3.0",
   "engines": {
     "vscode": "^1.110.1"
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Biggdum Terminal Theme",
+        "label": "biggdum theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Biggdum Terminal Theme-color-theme.json"
       }
@@ -21,5 +21,9 @@
   "dependencies": {
     "nodejs": "^0.0.0"
   },
-  "publisher": "goatborg"
+  "publisher": "goatborg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigaxr/biggdum.goatborg.git"
+  }
 }
