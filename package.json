@@ -1,0 +1,25 @@
+{
+  "name": "biggdum-terminal-theme",
+  "displayName": "Biggdum Terminal Theme",
+  "description": "Biggdum's Terminal-based Theme",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.110.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Biggdum Terminal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Biggdum Terminal Theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "publisher": "goatborg"
+}
