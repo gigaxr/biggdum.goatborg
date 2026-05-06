@@ -1,6 +1,3 @@
-# readme.md
-this is a `readme.me` file for a `theme` for `vscode`
-
 # biggdum-theme
 *earthy* **colors** and `things`; **imagine** a `camoflauge commando` for the *Rebel Alliance* on the **forest planet** of `Endor`, `greens and browns` and *Ewoks*.
 
