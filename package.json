@@ -21,6 +21,7 @@
   "dependencies": {
     "nodejs": "^0.0.0"
   },
+  "icon": "icon.png",
   "publisher": "goatborg",
   "repository": {
     "type": "git",
