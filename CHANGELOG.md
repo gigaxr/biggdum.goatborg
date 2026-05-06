@@ -1,9 +1,15 @@
-# Change Log
+# Change Log About a Theme
 
-All notable changes to the "biggdum-terminal-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+> keep in mind... this is a change log... about a theme... k?
 
 ## [Unreleased]
 
 - Initial release
+
+## [current version]
+
+- things changed
+
+## [next version]
+
+- more things will change
