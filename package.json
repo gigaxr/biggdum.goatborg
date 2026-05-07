@@ -2,7 +2,7 @@
   "name": "biggdum-theme",
   "displayName": "biggdum theme",
   "description": "a big dumb theme",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "engines": {
     "vscode": "^1.110.1"
   },
