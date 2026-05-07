@@ -7,14 +7,6 @@ it's based on a theme i made for `newrecruit.eu`; ever a *work-in-progress*; sen
 *biggdum terminal* `theme` for **vscode**:
 ![biggdum-theme](./.screenshots/biggdum_vscode_theme.png)
 
-original `newrecruit.eu` theme:
-![biggdum-theme](./.screenshots/biggdum_newrecruit_theme.png)
----
-| | |
-|-|-|
-| ![asdf](./.screenshots/newrecruit_config1.png) | ![asdf](./.screenshots/newrecruit_config2.png) |
-
-
 # features
 `various` *colors*
 
